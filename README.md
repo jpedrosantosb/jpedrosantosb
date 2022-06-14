@@ -7,14 +7,13 @@
 - 🌱 I’m currently learning: **Java, Spring**;
 - 👯 I’m looking to collaborate on **Java Projects**;
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/jpedrosantosb?tab=repositories)**;
-- 💬 Ask me about anything **[here](https://www.linkedin.com/in/jo%C3%A3o-pedro-bastos-aa9654160/)**;
-- 📫 How to reach me **[contact us](mailto:jpedrosantosb@gmail.com)**;
 - 😄 Pronouns: **He/Him**;
 - ⚡ Fun fact: **Books, movies, series, counter strike and football**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-bastos-aa9654160/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin-jo%C3%A3o-pedro-bastos" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-bastos-aa9654160/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:jpedrosantosb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   
   <h3 align="left">Languages and Tools:</h3>
@@ -52,9 +51,9 @@
   <img width="60" height="60" src="https://seekicon.com/free-icon-download/eclipse_2.svg" />
   <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"" />
   </p><hr>
-                                                                                                                  
-  <!-- Github Stats -->
-  <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedrosantosb&layout=compact&theme=github_dark" alt="github stats/> -->           
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jpedrosantosb&show_icons=true&include_all_commits=true&theme=github_dark&count_private=true&layout=compact"   alt="github stats"/>
-  <hr>
-  <img align="right" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge">
+  
+<div align="center">
+  <a href="https://github.com/jpedrosantosb">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpedrosantosb&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedrosantosb&layout=compact&langs_count=7&theme=github_dark"/>
+</div> 
