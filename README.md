@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm João Pedro Bastos</h1>
-<h3 align="center">Java Developer</h3>
 <h3 align="center"> "Learning everyday"</h3>
 
 **Here are some fun facts about me:**
